@@ -5,10 +5,15 @@ This dataset is referring expression dataset constructed from Twitter. The datas
 The Data properties contain `tweet_url`, `tweet_id`, `text`, `image_properties`, `category`, `split`, `entities`.
 
 `tweet_url`: The Twitter URL of data.
+
 `tweet_id`:  The ID of the Twitter.
+
 `text`: the content of the Tweet.
+
 `image_properties`: the image properties of the Tweet.
+
 `category`: the category of data. The categories of dataset are same as REFCOCO'ones.
+
 `entities`: the entities have child properties as following.
 
 * `sent_row`: the sentence that the entity belongs to.
