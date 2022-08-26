@@ -24,6 +24,6 @@ The Data properties contain `tweet_url`, `tweet_id`, `text`, `image_properties`,
 
 # Citation
 ---
-If you used this dataset, that were collected by ~, please consider cite our paper
+If you used this dataset, that were collected by [KUROHASHI-CHU-MURAWAKI LAB](https://nlp.ist.i.kyoto-u.ac.jp/EN/), please consider cite [our paper](https://aclanthology.org/2022.acl-srw.22.pdf)
 
 
