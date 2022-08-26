@@ -1,9 +1,7 @@
 # Note
------
 This dataset is referring expression dataset constructed from Twitter. The dataset is consisted of unanswerable data whose entities cannot be grounded to the images, and answerable one.
 
 # Data Property Description
----
 The Data properties contain `tweet_url`, `tweet_id`, `text`, `image_properties`, `category`, `split`, `entities`.
 
 `tweet_url`: The Twitter URL of data.
@@ -23,7 +21,6 @@ The Data properties contain `tweet_url`, `tweet_id`, `text`, `image_properties`,
 	- `answerable`: the boolean value of weather the referring expression is answerable or not.
 
 # Citation
----
 If you used this dataset, that were collected by [KUROHASHI-CHU-MURAWAKI LAB](https://nlp.ist.i.kyoto-u.ac.jp/EN/), please consider cite [our paper](https://aclanthology.org/2022.acl-srw.22.pdf)
 
 
